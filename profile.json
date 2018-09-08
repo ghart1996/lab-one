@@ -1,0 +1,12 @@
+{
+  "first_name" : "Mr. Jiggity",
+  "last_name" : "Bop",
+  "displayHandle" : "ImCooler1122",
+
+  "posts" : ["Just got a new car! Check me out ;)",
+    "Went out with my friends last night and had a few too many... donuts!",
+    "I just popped the question, say hello to the future Mrs. Bop!"],
+
+    "age" : "25",
+    "active" : "1",
+}
