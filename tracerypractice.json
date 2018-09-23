@@ -1,0 +1,67 @@
+{
+	"name": [
+		"Leon",
+		"Aayla",
+		"Alec",
+		"Gabby",
+		"Scott",
+		"Emmy"
+	],
+	"occupation": [
+		"designer",
+		"programmer",
+		"mechanic",
+		"veterinarian",
+		"vlogger",
+		"student"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# a #adjective# day in #month#. They #got# a #size# surprise!"
+	],
+	"always": [
+		"always",
+		"never",
+		"sometimes",
+		"rarely"
+	],
+	"expecting": [
+		"hoping for",
+		"anticipating",
+		"imagining",
+		"dreaming of"
+	],
+	"adjective": [
+		"sunny",
+		"cool",
+		"breezy",
+		"rainy",
+		"cloudy",
+		"stormy",
+		"hot"
+	],
+	"month": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"size": [
+		"big",
+		"huge",
+		"ginormous",
+		"massive"
+	],
+	"got": [
+		"got",
+		"received",
+		"witnessed"
+	]
+}
